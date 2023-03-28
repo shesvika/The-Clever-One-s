@@ -48,14 +48,7 @@ p{
     background-color: rgb(240,240,240);
     border-color: azure;
 }
-button{
-   
-    background-color:lightslategray;
-    color:white;
-    border-color:lightslategray;
-    border-radius: 30px;
-    margin-left: 250px;
-    width:120px;
-    padding: 10px;
-    font-size: 15px;
+.xxx{
+    text-align: center;
 }
+
